@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6574403-9aa8-49e6-813e-58851da78856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Open Close/Open Close.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Open Close/src/bad/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Open Close/src/good/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Open Close/src/good/SocketWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Open Close/src/good/Write.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Liskov Substitution/Liskov Substitution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "G:/SOLID/SOLID-principles/Open Close/src/Main.java",
+    "onboarding.tips.debug.path": "G:/SOLID/SOLID-principles/Liskov Substitution/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747733659430</updated>
-      <workItem from="1747733660563" duration="2060000" />
+      <workItem from="1747733660563" duration="2880000" />
     </task>
     <servers />
   </component>

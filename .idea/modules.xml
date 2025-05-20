@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Liskov Substitution/Liskov Substitution.iml" filepath="$PROJECT_DIR$/Liskov Substitution/Liskov Substitution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Open Close/Open Close.iml" filepath="$PROJECT_DIR$/Open Close/Open Close.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID-principles.iml" filepath="$PROJECT_DIR$/SOLID-principles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Single Responsibility/Single Responsibility.iml" filepath="$PROJECT_DIR$/Single Responsibility/Single Responsibility.iml" />

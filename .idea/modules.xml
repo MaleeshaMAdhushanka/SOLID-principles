@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dependancy Inversion/Dependancy Inversion.iml" filepath="$PROJECT_DIR$/Dependancy Inversion/Dependancy Inversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface Segregation/Interface Segregation.iml" filepath="$PROJECT_DIR$/Interface Segregation/Interface Segregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Liskov Substitution/Liskov Substitution.iml" filepath="$PROJECT_DIR$/Liskov Substitution/Liskov Substitution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Open Close/Open Close.iml" filepath="$PROJECT_DIR$/Open Close/Open Close.iml" />

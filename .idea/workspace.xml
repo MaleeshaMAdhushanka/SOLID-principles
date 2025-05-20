@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6574403-9aa8-49e6-813e-58851da78856" name="Changes" comment="" />
+    <list default="true" id="e6574403-9aa8-49e6-813e-58851da78856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Open Close/Open Close.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Close/src/bad/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Close/src/good/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Close/src/good/SocketWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Close/src/good/Write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +22,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MaleeshaMAdhushanka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MaleeshaMAdhushanka/SOLID-principles.git",
+    "accountId": "4cdd760d-2b60-48d1-8fa2-e13a1807f79b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2xM2Wzx87C9GibERdVUqEoqZH7R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,13 +56,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "G:/SOLID/SOLID-principles/Single Responsibility/src/Main.java",
+    "onboarding.tips.debug.path": "G:/SOLID/SOLID-principles/Open Close/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747733659430</updated>
-      <workItem from="1747733660563" duration="778000" />
+      <workItem from="1747733660563" duration="2060000" />
     </task>
     <servers />
   </component>
